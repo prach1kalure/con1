@@ -1,0 +1,32 @@
+body
+{
+    font-family: 'Inter', sans-serif;
+    color: #000000;
+    margin: 20px;
+    
+}
+.header
+{
+   border: 1px solid black;
+   padding: 20px 25px;
+   padding-top: 0px;
+   
+   text-align: justify;
+   
+}
+a
+{
+    color: #000000;  
+}
+img
+{
+    width:500px
+}
+li
+{
+    position: relative;
+    right: 15px;
+    margin-top: 10px;
+   
+ 
+}
